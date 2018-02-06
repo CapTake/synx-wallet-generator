@@ -1,4 +1,4 @@
-# iztwg
+# Syndicate wallet generator
 
 > Syndicate (SYNX) wallet generator
 
