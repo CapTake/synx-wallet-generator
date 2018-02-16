@@ -31,24 +31,6 @@ export default {
       },
       set () {}
     }
-  },
-  created () {
-    /*
-    QRCode.toDataURL(this.pub).then(url => {
-      this.pubq = url
-    }).catch(err => {
-      console.error(err.message)
-    })
-    QRCode.toDataURL(this.priv).then(url => {
-      this.privq = url
-    }).catch(err => {
-      console.error(err.message)
-    })
-    */
   }
 }
 </script>
-
-<style>
-
-</style>
